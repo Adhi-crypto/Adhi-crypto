@@ -44,7 +44,7 @@ img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-t
   </a>
 
   <a href="https://www.linkedin.com/in/adithyan-s-965a3b2b6/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
+    <img src="https://www.linkedin.com/in/adithyan-s-965a3b2b6/" />
   </a>
 
   <a href="https://x.com/mike_devlogs">
