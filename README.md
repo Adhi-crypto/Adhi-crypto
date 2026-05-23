@@ -26,7 +26,7 @@
 <h3>🌐 Socials</h3>
   
 <p align="left">
-  <a href="https://dev.to/midhun-nk">
+  <a href="https://dev.to/adhi_m">
     <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logoColor=white" />
   </a>
 
